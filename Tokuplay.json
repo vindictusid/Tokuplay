@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ca624bc24e570438",
+    "username": "vindictus",
+    "password": "tokuplay",
+    "expiresAt": "2026-06-09",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
