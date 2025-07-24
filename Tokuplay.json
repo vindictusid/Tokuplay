@@ -84,6 +84,13 @@
     "allowOffline": true
   },
   {
+    "id": "2f625c6061372b9d",
+    "username": "6283132169687",
+    "password": "tokuplay",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
